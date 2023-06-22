@@ -1,4 +1,4 @@
-Install priject
+Install
 git clone
 npm install
 npm run dev
