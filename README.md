@@ -1,3 +1,9 @@
+Install priject
+git clone
+npm install
+npm run dev
+
+
 https://anton-forzun.github.io/lessonTube/
 
 
